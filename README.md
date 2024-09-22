@@ -13,4 +13,4 @@ My data science and analytics projects
 reach out to me at woracote0388@gmail.com
 
 ## Image
-![Deadpool]((https://wallpapers.com/images/featured/deadpool-tzhfez1w8ud2z8aw.jpg))
+![Deadpool](https://i.pinimg.com/736x/d6/f8/d7/d6f8d7b5cc1fca0665359e2b99458d41.jpg)
